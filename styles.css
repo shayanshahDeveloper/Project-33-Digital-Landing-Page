@@ -14,7 +14,6 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
-  overflow: hidden;
 }
 
 a {
@@ -32,6 +31,7 @@ body {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+  overflow: hidden;
 }
 
 nav {
